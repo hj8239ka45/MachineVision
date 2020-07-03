@@ -1,0 +1,22 @@
+# Untitled - By: hj823 - 週二 五月 12 2020
+
+import sensor, image, time
+
+sensor.reset()
+sensor.set_pixformat(sensor.RGB565)
+sensor.set_framesize(sensor.QVGA)
+sensor.skip_frames(time = 2000)
+
+clock = time.clock()
+
+#red = ((27,80,16,67,-8,49))
+
+while(True):
+    clock.tick()
+    img = sensor.snapshot()
+    print(clock.fps())
+
+    #reds = img.find_blobs([red])
+    #img.draw_rectangle(reds[0][0:4],color=(0,255,0))
+    #img.draw_cross(reds[0][5],reds[0][6],5)
+    #print(reds)

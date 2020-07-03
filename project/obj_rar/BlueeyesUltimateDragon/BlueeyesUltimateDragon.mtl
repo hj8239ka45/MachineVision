@@ -1,0 +1,48 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 03.02.2012 15:50:24
+#map_Ka F:\Recently_Use\41\machine_vision\augmented-reality-master\models\BlueEyesUltimateDragon\m32_UltimateBlueE_A_.png
+#map_Kd F:\Recently_Use\41\machine_vision\augmented-reality-master\models\BlueEyesUltimateDragon\m32_UltimateBlueE_A_.png
+#map_Ka F:\Recently_Use\41\machine_vision\augmented-reality-master\models\BlueEyesUltimateDragon\m32_UltimateBlueE_B_.png
+#map_Kd F:\Recently_Use\41\machine_vision\augmented-reality-master\models\BlueEyesUltimateDragon\m32_UltimateBlueE_B_.png
+#F:\Recently_Use\41\machine_vision\augmented-reality-master\models\BlueEyesUltimateDragon
+#map_Ka F:\Recently_Use\41\machine_vision\augmented-reality-master\models\BlueEyesUltimateDragon\UltimateZunge.png
+#map_Kd F:\Recently_Use\41\machine_vision\augmented-reality-master\models\BlueEyesUltimateDragon\UltimateZunge.png
+
+newmtl Material__35
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd C:\Users\hj823\Desktop\temp\machine_vision\augmented-reality-master\models\BlueeyesUltimateDragon\m32_UltimateBlueE_A_.png
+newmtl Material__47
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd C:\Users\hj823\Desktop\temp\machine_vision\augmented-reality-master\models\BlueeyesUltimateDragon\m32_UltimateBlueE_B_.png
+
+newmtl Material__83
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd C:\Users\hj823\Desktop\temp\machine_vision\augmented-reality-master\models\BlueeyesUltimateDragon\UltimateZunge.png
+	
